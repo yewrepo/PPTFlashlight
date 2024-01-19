@@ -7,7 +7,7 @@ Name=PPT Flashlight
 Name[ru]=PPT Фонарик
 
 [X-Application]
-Permissions=DeviceInfo;Camera;Internet;ru.yewrepo.pptfl2.receiver@ru.omp.test.fdpass.receiver
+Permissions=Camera;
 OrganizationName=ru.yewrepo
 ApplicationName=pptfl2
 ExecDBus=/usr/bin/ru.yewrepo.pptfl2
